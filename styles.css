@@ -1,5 +1,5 @@
 .table,th,td{
 	border: 1px solid;
-	font:font-monospace, text-end, fw-bold
+	 border-collapse: collapse;
 	
 }
